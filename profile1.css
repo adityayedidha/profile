@@ -1,0 +1,115 @@
+body{
+    text-align: center;
+    background-image: url("logo.webp");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+    
+
+}
+header h1{
+    color: black;
+       
+}
+header
+{
+    /*background-color: black;*/
+    padding: 20px;
+
+}
+div
+{
+   margin-top:2% ;
+   
+}
+
+header h2,p
+{
+    text-align: top;
+    color:tan;
+}
+#home a{
+text-decoration: none;
+color:whitesmoke;
+}
+ul li
+{
+   
+    display: inline;
+    color:white;
+    padding: 10px;
+}
+
+ul li a
+{
+   
+    color:white ;
+    text-decoration: none;
+}
+
+#bio h2 {
+    color: tan;
+    background-color:rgb(18, 16, 16);
+}
+#bio p {
+    color: whitesmoke;
+    
+}
+#achieve h2 {
+    color: tan;
+    background-color: rgb(18, 16, 16);
+}
+#achieve p{
+    color: whitesmoke;
+}
+#achieve b{
+    color: white;
+}
+
+
+
+#skills ul li{
+    color: whitesmoke;
+   
+}
+#skills h2{
+    color: tan;
+    background-color:rgb(18, 16, 16);
+}
+#portfolio h2 {
+    color: tan;
+    background-color: rgb(18, 16, 16);
+}
+#portfolio p{
+    color: whitesmoke ;
+}
+#cert h2 {
+    color: tan;
+    background-color: rgb(18, 16, 16);
+}
+#cert a{
+    text-decoration:none;
+    color: tan;
+}
+
+
+#contact h2{
+    color: tan;
+    background-color:rgb(18, 16, 16);
+}
+#contact p{
+    color: whitesmoke;
+}
+footer
+{
+    background-color: rgb(18, 16, 16);
+    height: 20px;
+}
+footer p{
+    color: bisque;
+}
+#home img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
